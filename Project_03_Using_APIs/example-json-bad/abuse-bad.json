@@ -1,0 +1,18 @@
+{
+    "data": {
+        "abuseConfidenceScore": 100,
+        "countryCode": "CN",
+        "domain": "chinatelecom.com.cn",
+        "hostnames": [],
+        "ipAddress": "218.92.0.31",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "ChinaNet Jiangsu Province Network",
+        "lastReportedAt": "2024-03-15T22:39:05+00:00",
+        "numDistinctUsers": 437,
+        "totalReports": 31491,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+}
