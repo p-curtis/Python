@@ -1,5 +1,0 @@
-# Ignore "__pycache__"
-__pycache__
-
-# Ignore Key Files
-Project4/Project4_Operations_Folder/*.key
