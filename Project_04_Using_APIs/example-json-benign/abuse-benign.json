@@ -1,0 +1,20 @@
+{
+    "data": {
+        "abuseConfidenceScore": 0,
+        "countryCode": "US",
+        "domain": "cox.com",
+        "hostnames": [
+            "ip68-8-117-227.sd.sd.cox.net"
+        ],
+        "ipAddress": "68.8.117.227",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": null,
+        "isp": "Cox Communications LLC",
+        "lastReportedAt": null,
+        "numDistinctUsers": 0,
+        "totalReports": 0,
+        "usageType": "Fixed Line ISP"
+    }
+}
